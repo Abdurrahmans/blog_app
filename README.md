@@ -1,4 +1,4 @@
 # blog_app
-## Backend django App
+Backend django App
 USING REST FRAMEWORK
 
